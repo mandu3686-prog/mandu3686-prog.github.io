@@ -1,0 +1,17 @@
+# ----------------------------------------
+# 사이트 기본 정보 (필수 수정)
+# ----------------------------------------
+title: 김현빈의 개발 포트폴리오
+email: kakagameloft3@gmail.com
+description: >- GitHub Pages를 이용해 만든 김현빈의 개발 포트폴리오입니다.
+baseurl: 
+url: https://mandu3686.github.io
+
+# ----------------------------------------
+# Jekyll 테마 설정 (기본값 유지 권장)
+# ----------------------------------------
+remote_theme: pages-themes/minimal
+
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
