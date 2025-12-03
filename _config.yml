@@ -11,7 +11,7 @@ url: https://mandu3686-prog.github.io
 # ----------------------------------------
 # Jekyll 테마 설정 (기본값 유지 권장)
 # ----------------------------------------
-remote_theme: pages-themes/minimal
+remote_theme: "mmistakes/so-simple-theme"
 
 plugins:
   - jekyll-feed
