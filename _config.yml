@@ -20,7 +20,7 @@ plugins:
 # So Simple Theme 필수 설정
 # ----------------------------------------
 # 사이트 주소를 다시 한번 명시합니다 (빌드 오류 방지)
-url: https://mandu3686.github.io 
+url: https://mandu3686-prog.github.io 
 
 # 포트폴리오 사이트가 홈디렉토리에 있으므로 baseurl은 비워둡니다.
 baseurl: "" 
