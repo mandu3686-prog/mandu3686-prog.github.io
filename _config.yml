@@ -29,3 +29,13 @@ baseurl: ""
 locale: "ko-KR"
 timezone: Asia/Seoul
 title_separator: "|" # 제목과 부제목 사이에 구분자를 설정합니다.
+# ----------------------------------------
+# 사이트 메뉴 (Navigation) 설정
+# ----------------------------------------
+navigation:
+  - title: "소개 (About Me)"
+    url: /about/
+  - title: "프로젝트"
+    url: /projects/
+  - title: "연락처"
+    url: /contact/
