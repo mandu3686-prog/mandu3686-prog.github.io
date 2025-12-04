@@ -1,6 +1,7 @@
 ---
 layout: home # So Simple Theme의 메인 페이지 레이아웃인 'home'으로 설정합니다.
 title: 홈
+sidebar: # 이 부분이 있다면 사이드바가 표시됩니다.
 ---
 
 # 👋 안녕하세요, 개발자 김현빈입니다.
